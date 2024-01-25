@@ -14,7 +14,7 @@ The analysis also considers school size, categorizing schools as small, medium, 
 
 Finally, the analysis looks at school performance based on school type. A new DataFrame, “type_summary”, shows key metrics for each type of school. This comprehensive analysis provides valuable insights into the factors that may influence school and student performance.
 
-Based on the provided data, we can draw several conclusions:
+Based on the data, we can draw several conclusions:
 
 School Type and Performance: Charter schools tend to have a higher overall passing percentage compared to District schools. For instance, the top five schools in terms of overall passing percentage are all Charter schools, with Cabrera High School leading at approximately 91.33%. On the other hand, the bottom five schools, which are all District schools, have an overall passing percentage just above 50%.
 
