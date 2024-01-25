@@ -1,5 +1,5 @@
 # Challenge Summary
-'''
+
 This project involves a comprehensive analysis of school performance based on various factors. The data set includes information about schools and students, such as school type, size, budget, and student grades.
 
 The analysis begins with a high-level snapshot of the district’s key metrics, including:
@@ -36,4 +36,3 @@ The analysis also considers school size, categorizing schools as small, medium, 
 Finally, the analysis looks at school performance based on school type. A new DataFrame, “type_summary”, shows key metrics for each type of school.
 
 This comprehensive analysis provides valuable insights into the factors that may influence school and student performance. However, it’s important to remember that correlation does not imply causation, and further investigation would be needed to determine the underlying causes of these trends.
-'''
